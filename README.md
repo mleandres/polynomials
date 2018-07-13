@@ -4,7 +4,7 @@ Play with different polynomials in the command line.
 
 Enter polynomials with the form of the following regular expression:
 
-`-? +\<term\>( +\<operator\> +\<term\>)*`
+`-? +<term>( +<operator> +<term>)*`
 
 Some examples are:
 - `0`
